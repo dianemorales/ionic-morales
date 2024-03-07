@@ -1,0 +1,7 @@
+{
+  "name": "ionic-morales",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
